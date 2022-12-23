@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registration-Login-Composer</string>
+    <string name="title_activity_screen_main">ScreenMain</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+</resources>
